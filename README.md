@@ -67,19 +67,3 @@ Me chamo João Vitor Rodrigues, tenho 18 anos e sou natural do Distrito Federal.
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p>
-
-<img 
-    align="left"  
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=joaorpontes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-/>
-
-<img
-    align="left" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaorpontes&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
