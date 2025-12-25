@@ -8,7 +8,7 @@ Me chamo João Vitor Rodrigues, tenho 18 anos e sou natural do Distrito Federal.
     <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
         <img 
             alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
+            title="Gmail" 
             src="https://custom-icon-badges.demolab.com/badge/joaovitor656577@gmail.com-brown?style=for-the-badge&logo=mail&logoColor=white"
         />
     </a>
