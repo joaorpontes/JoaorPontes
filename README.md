@@ -1,6 +1,6 @@
 # 👨‍💻 João Vitor Rodrigues Soares Pontes 
 
-**`Desenvolvedora Back-End`**
+**`Desenvolvedor Back-End`**
 
 Me chamo João Vitor Rodrigues, tenho 18 anos e sou natural do Distrito Federal. Concluí o ensino médio no Centro Educacional 07, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Estácio. Sou apaixonado por tecnologia e venho aprendendo muito mais com cursos e fazendo projetos práticos, buscando sempre aprender muito mais sobre tecnologia. Caso queira me encontrar ou entrar em contato, eu tenho meu LinkedIn [João_Vitor](https://www.linkedin.com/in/joaorpontes/).
 
